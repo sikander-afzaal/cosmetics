@@ -17,21 +17,21 @@ function Footer() {
         <a href="...">About Us</a>
       </div>
       <div className="col-footer">
-        <h1>Collection</h1>
+        <h1>Lorem</h1>
         <a href="...">New Collection</a>
-        <a href="...">Sofas</a>
-        <a href="...">Furniture</a>
-        <a href="...">Lamas</a>
+        <a href="...">Lorem, ipsum.</a>
+        <a href="...">Lorem, ipsum.</a>
+        <a href="...">Lorem, ipsum.</a>
       </div>
       <div className="col-footer">
-        <h1>Customer Care</h1>
+        <h1>Lorem</h1>
         <a href="...">Terms And Conditions</a>
         <a href="...">arice Guarantee</a>
         <a href="...">aayment</a>
         <a href="...">Material And Care</a>
       </div>
       <div className="col-footer">
-        <h1>Contact Us</h1>
+        <h1>Lorem</h1>
         <a href="...">About Us</a>
         <a href="...">About Us</a>
         <div className="box-div">
