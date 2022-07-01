@@ -58,8 +58,7 @@ function Home() {
         </Splide>
         <div className="abs-div-home">
           <div className="text-div-home">
-            <h2>EXPRESS YOUR EXTRAORDINARY</h2>
-            <h1>Lorem, ipsum dolor.</h1>
+            <h2>WERE WE DOMINATE & WE NEVER PARTICIPATE</h2>
           </div>
           <button className="explore">EXPLORE NOW</button>
         </div>

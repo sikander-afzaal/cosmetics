@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./Header.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars, faXmark } from "@fortawesome/free-solid-svg-icons";
-import logo from "../../Assets-furniture/logo.webp";
+import logo from "../../Assets-furniture/logo.jpg";
 function Header() {
   const [open, setOpen] = useState(false);
 
